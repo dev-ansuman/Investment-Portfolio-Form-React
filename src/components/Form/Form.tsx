@@ -1,9 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import { useApp } from '../../app-context/use-app';
 import InvestmentDetails from './InvestmentDetails';
-import Navigation from './navigation';
+import Navigation from './Navigation';
 import AssetAllocation from './AssetAllocation';
-import Preferences from './preferences';
+import Preferences from './Preferences';
 import Stepper from './Stepper';
 import type { Asset } from '../../types/Asset';
 import { addSubmittedRecord, getSubmittedRecords } from '../../storage/app.storage';

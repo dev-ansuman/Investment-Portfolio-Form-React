@@ -1,6 +1,6 @@
 import React from 'react';
-import Form from './components/Form/form';
-import Table from './components/Table/table';
+import Form from './components/Form/Form';
+import Table from './components/Table/Table';
 import Navbar from './components/Navbar';
 import './App.css';
 
